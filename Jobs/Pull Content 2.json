@@ -12,6 +12,20 @@
     "version": 1,
     "parameters": [
         {
+            "id": 88,
+            "isMandatory": false,
+            "name": "Domains",
+            "type": 0,
+            "value": "false"
+        },
+        {
+            "id": 89,
+            "isMandatory": false,
+            "name": "Custom Lists",
+            "type": 0,
+            "value": "false"
+        },
+        {
             "id": 71,
             "isMandatory": false,
             "name": "Repo URL",
@@ -131,20 +145,6 @@
             "value": "false"
         },
         {
-            "id": 88,
-            "isMandatory": false,
-            "name": "Domains",
-            "type": 0,
-            "value": "false"
-        },
-        {
-            "id": 89,
-            "isMandatory": false,
-            "name": "Custom Lists",
-            "type": 0,
-            "value": "false"
-        },
-        {
             "id": 90,
             "isMandatory": false,
             "name": "Email Templates",
@@ -168,6 +168,6 @@
     ],
     "runIntervalInSeconds": 600,
     "creationTime": "2023-08-01T10:19:22.272Z",
-    "lastModificationTime": "2023-08-01T10:19:22.272Z",
+    "lastModificationTime": "2023-08-01T10:29:43.522Z",
     "isSystemJob": false
 }

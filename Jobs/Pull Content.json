@@ -12,41 +12,6 @@
     "version": 1,
     "parameters": [
         {
-            "id": 62,
-            "isMandatory": false,
-            "name": "Case Stages",
-            "type": 0,
-            "value": "true"
-        },
-        {
-            "id": 63,
-            "isMandatory": false,
-            "name": "Case Title Settings",
-            "type": 0,
-            "value": "true"
-        },
-        {
-            "id": 64,
-            "isMandatory": false,
-            "name": "Case Close Reasons",
-            "type": 0,
-            "value": "true"
-        },
-        {
-            "id": 65,
-            "isMandatory": false,
-            "name": "Networks",
-            "type": 0,
-            "value": "true"
-        },
-        {
-            "id": 66,
-            "isMandatory": false,
-            "name": "Domains",
-            "type": 0,
-            "value": "true"
-        },
-        {
             "id": 49,
             "isMandatory": false,
             "name": "Repo URL",
@@ -138,6 +103,41 @@
             "value": "true"
         },
         {
+            "id": 62,
+            "isMandatory": false,
+            "name": "Case Stages",
+            "type": 0,
+            "value": "true"
+        },
+        {
+            "id": 63,
+            "isMandatory": false,
+            "name": "Case Title Settings",
+            "type": 0,
+            "value": "true"
+        },
+        {
+            "id": 64,
+            "isMandatory": false,
+            "name": "Case Close Reasons",
+            "type": 0,
+            "value": "true"
+        },
+        {
+            "id": 65,
+            "isMandatory": false,
+            "name": "Networks",
+            "type": 0,
+            "value": "true"
+        },
+        {
+            "id": 66,
+            "isMandatory": false,
+            "name": "Domains",
+            "type": 0,
+            "value": "true"
+        },
+        {
             "id": 67,
             "isMandatory": false,
             "name": "Custom Lists",
@@ -168,6 +168,6 @@
     ],
     "runIntervalInSeconds": 600,
     "creationTime": "2023-08-01T10:08:51.417Z",
-    "lastModificationTime": "2023-08-01T10:19:43.289Z",
+    "lastModificationTime": "2023-08-01T10:29:43.601Z",
     "isSystemJob": false
 }
