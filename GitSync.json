@@ -1,0 +1,11 @@
+{
+    "systemVersion": "0.0.0.0",
+    "readmeAddons": {
+        "Integration": {},
+        "Mappings": {},
+        "Visual Family": {},
+        "Playbook": {},
+        "Connector": {},
+        "Job": {}
+    }
+}
