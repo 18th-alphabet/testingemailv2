@@ -12,6 +12,20 @@
     "version": 1,
     "parameters": [
         {
+            "id": 87,
+            "isMandatory": false,
+            "name": "Networks",
+            "type": 0,
+            "value": "false"
+        },
+        {
+            "id": 88,
+            "isMandatory": false,
+            "name": "Domains",
+            "type": 0,
+            "value": "false"
+        },
+        {
             "id": 71,
             "isMandatory": false,
             "name": "Repo URL",
@@ -124,20 +138,6 @@
             "value": "false"
         },
         {
-            "id": 87,
-            "isMandatory": false,
-            "name": "Networks",
-            "type": 0,
-            "value": "false"
-        },
-        {
-            "id": 88,
-            "isMandatory": false,
-            "name": "Domains",
-            "type": 0,
-            "value": "false"
-        },
-        {
             "id": 89,
             "isMandatory": false,
             "name": "Custom Lists",
@@ -168,6 +168,6 @@
     ],
     "runIntervalInSeconds": 600,
     "creationTime": "2023-08-01T10:19:22.272Z",
-    "lastModificationTime": "2023-08-01T10:39:43.752Z",
+    "lastModificationTime": "2023-08-01T10:49:43.845Z",
     "isSystemJob": false
 }
