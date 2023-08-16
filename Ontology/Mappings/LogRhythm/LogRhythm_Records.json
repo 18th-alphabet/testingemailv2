@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "source": "LogRhythm",
+        "product": "LogRhythm",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "LogRhythm",
+        "product": "LogRhythm",
+        "eventName": "Case",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "LogRhythm",
+        "product": "LogRhythm",
+        "eventName": "Evidence",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    }
+]

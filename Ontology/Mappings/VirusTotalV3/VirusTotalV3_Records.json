@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "source": "VirusTotalV3",
+        "product": "Virustotal",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "VirusTotalV3",
+        "product": "VirusTotal",
+        "eventName": "file",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 1,
+        "exampleEventFields": []
+    }
+]
