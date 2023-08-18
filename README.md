@@ -6,6 +6,12 @@
 |EmailV2|Email integration over smtp and imap protocols|
 
 
+## Connectors
+|Name|Description|Has Mappings|
+|----|-----------|------------|
+|Generic IMAP Email Connector||True|
+
+
 ## Jobs
 |Name|Description|
 |----|-----------|
