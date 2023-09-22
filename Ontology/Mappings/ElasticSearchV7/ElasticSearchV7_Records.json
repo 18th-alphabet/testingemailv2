@@ -26,7 +26,7 @@
         "source": "ElasticSearchV7",
         "product": "endpoint.events.network",
         "eventName": "Web Service",
-        "familyName": "Elastic Network Event",
+        "familyName": "Default",
         "familyId": 0,
         "mappingStatus": null,
         "changeSource": 0,
