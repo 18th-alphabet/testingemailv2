@@ -1,11 +1,14 @@
 {
-    "systemVersion": "0.0.0.0",
-    "readmeAddons": {
+    "system_version": "0.0.0.0",
+    "readme_addons": {
         "Integration": {},
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
         "Connector": {},
         "Job": {}
+    },
+    "settings": {
+        "update_root_readme": true
     }
 }
