@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "source": "ElasticSearchV7",
+        "product": null,
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "ElasticSearchV7",
+        "product": "endpoint.events.network",
+        "eventName": null,
+        "familyName": "Elastic Network Event",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "ElasticSearchV7",
+        "product": "endpoint.events.network",
+        "eventName": "Web Service",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "ElasticSearchV7",
+        "product": "endpoint.events.file",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "ElasticSearchV7",
+        "product": "windows.sysmon_operational",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    }
+]
