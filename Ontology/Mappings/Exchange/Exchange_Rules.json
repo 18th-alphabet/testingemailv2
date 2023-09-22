@@ -37,7 +37,7 @@
                     "transformationFunction": 0,
                     "transformationFunctionParam": null,
                     "rawDataPrimaryFieldMatchTerm": null,
-                    ,
+
                     "rawDataSecondaryFieldMatchTerm": null,
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": null,
@@ -64,7 +64,7 @@
                     "transformationFunction": 0,
                     "transformationFunctionParam": "",
                     "rawDataPrimaryFieldMatchTerm": "to",
-                    ,
+                    "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "CC",
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "BCC",
